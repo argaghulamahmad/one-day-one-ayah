@@ -1,0 +1,57 @@
+name: One Day One Ayah
+
+on:
+  push:
+    branches:
+      - master
+
+  schedule:
+    - cron: "0 22 * * *"
+    - cron: "0 5 * * *"
+    - cron: "0 8 * * *"
+    - cron: "0 11 * * *"
+    - cron: "0 12 * * *"
+
+jobs:
+  one_day_one_ayah:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          persist-credentials: false
+
+      - name: Set up Python ${{ matrix.python-version }}
+        uses: actions/setup-python@v1
+        with:
+          python-version: ${{ matrix.python-version }}
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run One Day One Ayah Script
+        run: |
+          python main.py >> odoa.txt
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "${{ secrets.email }}"
+          git config --local user.name "${{ secrets.name }}"
+          git add -A
+
+          git commit -m "One Day One Ayah `date '+%d/%m/%Y %H:%M:%S'`"
+
+      - name: Send message using telegram
+        uses: appleboy/telegram-action@master
+        with:
+          to: ${{ secrets.TELEGRAM_TO }}
+          token: ${{ secrets.TELEGRAM_TOKEN }}
+          message_file: odoa.txt
+
+      - name: GitHub Push
+        uses: ad-m/github-push-action@v0.5.0
+        with:
+          force: true
+          directory: "."
+          github_token: ${{ secrets.GITHUB_TOKEN }}
