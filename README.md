@@ -88,4 +88,4 @@ python main.py
 
 ## Authors
 
-* **Arga Ghulam Ahmad** - *Initial work* - [@argaghulamahmad/sso-ui-renew-notice](https://github.com/argaghulamahmad/sso-ui-renew-notice)
+* **Arga Ghulam Ahmad** - *Initial work* - [@argaghulamahmad/one-day-one-ayah](https://github.com/argaghulamahmad/one-day-one-ayah)
