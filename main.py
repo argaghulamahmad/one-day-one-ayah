@@ -6,7 +6,8 @@ from httpx import Response
 
 
 class ODOAException(Exception):
-    pass
+    def __init__(self, message):
+        super().__init__(message)
 
 
 class Quran(object):
@@ -37,11 +38,12 @@ class ODOA(object):
 
         rand_surah = random.randint(1, self.__TOTAL_SURAH)
         surah_url = f'{self.__BASE_API}/surah/surah_{rand_surah}.json'
+
         try:
             response = await self.__fetch(surah_url)
             data = response.json()
         except IOError:
-            raise ODOAException
+            raise ODOAException(f'Failed fetch surah {surah_url}')
         else:
             random_ayah = random.randint(1, int(data.get('count')))
             ayah_key = f'verse_{random_ayah}'
@@ -82,4 +84,5 @@ async def main():
     print(surah)
 
 
-asyncio.run(main())
+if __name__ == '__main__':
+    asyncio.run(main())
