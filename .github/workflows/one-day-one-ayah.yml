@@ -6,11 +6,11 @@ on:
       - master
 
   schedule:
-    - cron: "0 22 * * *"
-    - cron: "0 5 * * *"
-    - cron: "0 8 * * *"
-    - cron: "0 11 * * *"
-    - cron: "0 12 * * *"
+    - cron: '0 22 * * *'
+    - cron: '0 5 * * *'
+    - cron: '0 8 * * *'
+    - cron: '0 11 * * *'
+    - cron: '0 12 * * *'
 
 jobs:
   one_day_one_ayah:
