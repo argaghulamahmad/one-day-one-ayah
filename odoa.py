@@ -1,4 +1,3 @@
-import asyncio
 import random
 
 import httpx
@@ -76,13 +75,3 @@ class ODOA(object):
 
     def __repr__(self):
         return f'<{self.__class__.__name__}>'
-
-
-async def main():
-    o = ODOA()
-    surah = await o.get_random_surah()
-    print(surah)
-
-
-if __name__ == '__main__':
-    asyncio.run(main())
