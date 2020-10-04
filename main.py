@@ -5,8 +5,16 @@ from odoa import ODOA
 
 async def main():
     o = ODOA()
+
+    """
+    self.ayah = ayah
+    self.desc = desc
+    self.translate = translate
+    self.sound = sound
+    """
+
     surah = await o.get_random_surah()
-    print(surah)
+    print(surah.ayah, surah.desc, surah.translate, surah.sound)
 
 
 if __name__ == '__main__':

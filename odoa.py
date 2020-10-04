@@ -27,7 +27,7 @@ class ODOA(object):
 
     def __init__(self) -> None:
         self.__TOTAL_SURAH = 114  # https://en.wikipedia.org/wiki/List_of_surahs_in_the_Quran
-        self.__BASE_API = 'https://raw.githubusercontent.com/Keda87/quranjson/master/source'
+        self.__BASE_API = 'https://raw.githubusercontent.com/argaghulamahmad/quranjson/master/source'
         self.__SUPPORTED_LANGUAGES = ['id', 'en']
 
     async def get_random_surah(self, lang: str = 'id') -> Quran:
@@ -56,7 +56,7 @@ class ODOA(object):
             return Quran(ayah, desc, translation, sound)
 
     async def __get_translation(self, surah: int, ayah, lang: str) -> str:
-        url = f'{self.__BASE_API}/translations/{lang}/{lang}_translation_{int(surah)}.json'
+        url = f'{self.__BASE_API}/translation/{lang}/{lang}_translation_{int(surah)}.json'
         try:
             response = await self.__fetch(url)
             data = response.json()
@@ -66,7 +66,7 @@ class ODOA(object):
 
     def __get_sound(self, surah: int, ayah: int) -> str:
         format_ayah = str(ayah).zfill(3)
-        return f'{self.__BASE_API}/sounds/{surah}/{format_ayah}.mp3'
+        return f'{self.__BASE_API}/audio/{surah}/{format_ayah}.mp3'
 
     @staticmethod
     async def __fetch(url: str) -> Response:
