@@ -8,7 +8,7 @@
 
 Send 5 times message that contains the quran verse and translation to your telegram bot.
 
-The `odoa` python script taken from `https://github.com/Keda87/python-quran-odoa/blob/master/odoa.py`.
+The `odoa` python script taken from https://github.com/Keda87/python-quran-odoa/blob/master/odoa.py.
 
 ### Why?
 #### Telegram?
