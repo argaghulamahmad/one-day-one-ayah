@@ -6,7 +6,7 @@
 
 ![Screenshoot at One Day One Ayah](md-assets/one-day-one-ayah-telegram.jpg)
 
-Send 5 times message that contains the quran verse and translation to your telegram bot.
+Send message, 5 times a day, that contains the quran verse and indonesian translation to your telegram bot.
 
 The `odoa` python script taken from https://github.com/Keda87/python-quran-odoa/blob/master/odoa.py.
 
