@@ -32,7 +32,7 @@ jobs:
 
       - name: Run One Day One Ayah Script
         run: |
-          python main.py >> odoa.txt
+          python main.py > odoa.txt
 
       - name: Commit changes
         run: |
