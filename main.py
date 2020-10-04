@@ -7,7 +7,11 @@ async def main():
     o = ODOA()
 
     surah = await o.get_random_surah()
-    print(surah.ayah, surah.desc, surah.translate, surah.sound)
+
+    print(surah.ayah)
+    print(surah.desc)
+    print(surah.translate)
+    print(surah.sound)
 
 
 if __name__ == '__main__':
