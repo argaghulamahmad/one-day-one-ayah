@@ -1,4 +1,4 @@
-يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱتَّقُوا۟ ٱللَّهَ وَءَامِنُوا۟ بِرَسُولِهِۦ يُؤْتِكُمْ كِفْلَيْنِ مِن رَّحْمَتِهِۦ وَيَجْعَل لَّكُمْ نُورًۭا تَمْشُونَ بِهِۦ وَيَغْفِرْ لَكُمْ ۚ وَٱللَّهُ غَفُورٌۭ رَّحِيمٌۭ
-al-Hadid:28
-Hai orang-orang yang beriman (kepada para rasul), bertakwalah kepada Allah dan berimanlah kepada Rasul-Nya, niscaya Allah memberikan rahmat-Nya kepadamu dua bagian, dan menjadikan untukmu cahaya yang dengan cahaya itu kamu dapat berjalan dan Dia mengampuni kamu. Dan Allah Maha Pengampun lagi Maha Penyayang.
-https://raw.githubusercontent.com/argaghulamahmad/quranjson/master/source/audio/057/028.mp3
+وَلَيَالٍ عَشْرٍۢ
+al-Fajr:2
+dan malam yang sepuluh,
+https://raw.githubusercontent.com/argaghulamahmad/quranjson/master/source/audio/089/002.mp3
