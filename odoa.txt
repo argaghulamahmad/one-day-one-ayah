@@ -1,4 +1,4 @@
-الٓمٓر ۚ تِلْكَ ءَايَٰتُ ٱلْكِتَٰبِ ۗ وَٱلَّذِىٓ أُنزِلَ إِلَيْكَ مِن رَّبِّكَ ٱلْحَقُّ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يُؤْمِنُونَ
-ar-Ra'd:1
-Alif laam miim raa. Ini adalah ayat-ayat Al Kitab (Al Quran). Dan Kitab yang diturunkan kepadamu daripada Tuhanmu itu adalah benar: akan tetapi kebanyakan manusia tidak beriman (kepadanya).
-https://raw.githubusercontent.com/argaghulamahmad/quranjson/master/source/audio/013/001.mp3
+وَلَا يُؤْذَنُ لَهُمْ فَيَعْتَذِرُونَ
+al-Mursalat:36
+dan tidak diizinkan kepada mereka minta uzur sehingga mereka (dapat) minta uzur.
+https://raw.githubusercontent.com/argaghulamahmad/quranjson/master/source/audio/077/036.mp3
