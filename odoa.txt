@@ -1,4 +1,4 @@
-بِّسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ إِنَّآ أَنزَلْنَٰهُ فِى لَيْلَةِ ٱلْقَدْرِ
-al-Qadr:1
-Sesungguhnya Kami telah menurunkannya (Al Quran) pada malam kemuliaan.
-https://raw.githubusercontent.com/argaghulamahmad/quranjson/master/source/audio/097/001.mp3
+يَوْمَ يُدَعُّونَ إِلَىٰ نَارِ جَهَنَّمَ دَعًّا
+At-Tur:13
+pada hari mereka didorong ke neraka Jahannam dengan sekuat-kuatnya.
+https://raw.githubusercontent.com/argaghulamahmad/quranjson/master/source/audio/052/013.mp3
