@@ -1,4 +1,4 @@
-مَلِكِ ٱلنَّاسِ
-an-Nas:2
-Raja manusia.
-https://raw.githubusercontent.com/argaghulamahmad/quranjson/master/source/audio/114/002.mp3
+وَمَآ أَدْرَىٰكَ مَا ٱلْحُطَمَةُ
+al-Humazah:5
+Dan tahukah kamu apa Huthamah itu?
+https://raw.githubusercontent.com/argaghulamahmad/quranjson/master/source/audio/104/005.mp3
