@@ -1,4 +1,4 @@
-قَدْ كَانَتْ ءَايَٰتِى تُتْلَىٰ عَلَيْكُمْ فَكُنتُمْ عَلَىٰٓ أَعْقَٰبِكُمْ تَنكِصُونَ
-al-Mu'minun:66
-Sesungguhnya ayat-ayat-Ku (Al Quran) selalu dibacakan kepada kamu sekalian, maka kamu selalu berpaling ke belakang,
-https://raw.githubusercontent.com/argaghulamahmad/quranjson/master/source/audio/023/066.mp3
+وَٱلْفَجْرِ
+al-Fajr:1
+Demi fajar,
+https://raw.githubusercontent.com/argaghulamahmad/quranjson/master/source/audio/089/001.mp3
