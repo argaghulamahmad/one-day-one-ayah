@@ -1,4 +1,4 @@
-الٓمٓ
-ar-Rum:1
-Alif Laam Miim
-https://raw.githubusercontent.com/argaghulamahmad/quranjson/master/source/audio/030/001.mp3
+لَآ أَعْبُدُ مَا تَعْبُدُونَ
+al-Kafirun:2
+Aku tidak akan menyembah apa yang kamu sembah.
+https://raw.githubusercontent.com/argaghulamahmad/quranjson/master/source/audio/109/002.mp3
