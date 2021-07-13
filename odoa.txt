@@ -1,4 +1,4 @@
-يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا يَسْخَرْ قَوْمٌۭ مِّن قَوْمٍ عَسَىٰٓ أَن يَكُونُوا۟ خَيْرًۭا مِّنْهُمْ وَلَا نِسَآءٌۭ مِّن نِّسَآءٍ عَسَىٰٓ أَن يَكُنَّ خَيْرًۭا مِّنْهُنَّ ۖ وَلَا تَلْمِزُوٓا۟ أَنفُسَكُمْ وَلَا تَنَابَزُوا۟ بِٱلْأَلْقَٰبِ ۖ بِئْسَ ٱلِٱسْمُ ٱلْفُسُوقُ بَعْدَ ٱلْإِيمَٰنِ ۚ وَمَن لَّمْ يَتُبْ فَأُو۟لَٰٓئِكَ هُمُ ٱلظَّٰلِمُونَ
-al-Hujurat:11
-Hai orang-orang yang beriman, janganlah sekumpulan orang laki-laki merendahkan kumpulan yang lain, boleh jadi yang ditertawakan itu lebih baik dari mereka. Dan jangan pula sekumpulan perempuan merendahkan kumpulan lainnya, boleh jadi yang direndahkan itu lebih baik. Dan janganlah suka mencela dirimu sendiri dan jangan memanggil dengan gelaran yang mengandung ejekan. Seburuk-buruk panggilan adalah (panggilan) yang buruk sesudah iman dan barangsiapa yang tidak bertobat, maka mereka itulah orang-orang yang zalim.
-https://raw.githubusercontent.com/argaghulamahmad/quranjson/master/source/audio/049/011.mp3
+وَمَا يُؤْمِنُ أَكْثَرُهُم بِٱللَّهِ إِلَّا وَهُم مُّشْرِكُونَ
+Yusuf:106
+Dan sebahagian besar dari mereka tidak beriman kepada Allah, melainkan dalam keadaan mempersekutukan Allah (dengan sembahan-sembahan lain).
+https://raw.githubusercontent.com/argaghulamahmad/quranjson/master/source/audio/012/106.mp3
