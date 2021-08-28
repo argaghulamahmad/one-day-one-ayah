@@ -1,4 +1,4 @@
-لَآ إِكْرَاهَ فِى ٱلدِّينِ ۖ قَد تَّبَيَّنَ ٱلرُّشْدُ مِنَ ٱلْغَىِّ ۚ فَمَن يَكْفُرْ بِٱلطَّٰغُوتِ وَيُؤْمِنۢ بِٱللَّهِ فَقَدِ ٱسْتَمْسَكَ بِٱلْعُرْوَةِ ٱلْوُثْقَىٰ لَا ٱنفِصَامَ لَهَا ۗ وَٱللَّهُ سَمِيعٌ عَلِيمٌ
-al-Baqarah:256
-Tidak ada paksaan untuk (memasuki) agama (Islam); sesungguhnya telah jelas jalan yang benar daripada jalan yang sesat. Karena itu barangsiapa yang ingkar kepada Thaghut dan beriman kepada Allah, maka sesungguhnya ia telah berpegang kepada buhul tali yang amat kuat yang tidak akan putus. Dan Allah Maha Mendengar lagi Maha Mengetahui.
-https://raw.githubusercontent.com/argaghulamahmad/quranjson/master/source/audio/002/256.mp3
+قُلْ إِنَّمَآ أَنَا۠ مُنذِرٌۭ ۖ وَمَا مِنْ إِلَٰهٍ إِلَّا ٱللَّهُ ٱلْوَٰحِدُ ٱلْقَهَّارُ
+Sad:65
+Katakanlah (ya Muhammad): "Sesungguhnya aku hanya seorang pemberi peringatan, dan sekali-kali tidak ada Tuhan selain Allah Yang Maha Esa dan Maha Mengalahkan.
+https://raw.githubusercontent.com/argaghulamahmad/quranjson/master/source/audio/038/065.mp3
