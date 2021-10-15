@@ -1,4 +1,4 @@
-ٱلَّذِينَ ءَاتَيْنَٰهُمُ ٱلْكِتَٰبَ يَتْلُونَهُۥ حَقَّ تِلَاوَتِهِۦٓ أُو۟لَٰٓئِكَ يُؤْمِنُونَ بِهِۦ ۗ وَمَن يَكْفُرْ بِهِۦ فَأُو۟لَٰٓئِكَ هُمُ ٱلْخَٰسِرُونَ
-al-Baqarah:121
-Orang-orang yang telah Kami berikan Al Kitab kepadanya, mereka membacanya dengan bacaan yang sebenarnya, mereka itu beriman kepadanya. Dan barangsiapa yang ingkar kepadanya, maka mereka itulah orang-orang yang rugi.
-https://raw.githubusercontent.com/argaghulamahmad/quranjson/master/source/audio/002/121.mp3
+﻿بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ
+al-Fatihah:1
+Dengan menyebut nama Allah Yang Maha Pemurah lagi Maha Penyayang.
+https://raw.githubusercontent.com/argaghulamahmad/quranjson/master/source/audio/001/001.mp3
