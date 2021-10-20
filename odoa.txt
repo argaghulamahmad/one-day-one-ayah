@@ -1,4 +1,4 @@
-يَوْمَ نَطْوِى ٱلسَّمَآءَ كَطَىِّ ٱلسِّجِلِّ لِلْكُتُبِ ۚ كَمَا بَدَأْنَآ أَوَّلَ خَلْقٍۢ نُّعِيدُهُۥ ۚ وَعْدًا عَلَيْنَآ ۚ إِنَّا كُنَّا فَٰعِلِينَ
-al-Anbiya:104
-(Yaitu) pada hari Kami gulung langit sebagai menggulung lembaran-lembaran kertas. Sebagaimana Kami telah memulai panciptaan pertama begitulah Kami akan mengulanginya. Itulah suatu janji yang pasti Kami tepati; sesungguhnya Kamilah yang akan melaksanakannya.
-https://raw.githubusercontent.com/argaghulamahmad/quranjson/master/source/audio/021/104.mp3
+وَٱلَّذِى خَلَقَ ٱلْأَزْوَٰجَ كُلَّهَا وَجَعَلَ لَكُم مِّنَ ٱلْفُلْكِ وَٱلْأَنْعَٰمِ مَا تَرْكَبُونَ
+az-Zukhruf:12
+Dan Yang menciptakan semua yang berpasang-pasangan dan menjadikan untukmu kapal dan binatang ternak yang kamu tunggangi.
+https://raw.githubusercontent.com/argaghulamahmad/quranjson/master/source/audio/043/012.mp3
