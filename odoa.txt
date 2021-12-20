@@ -1,4 +1,4 @@
-وَأَنَّا لَمَّا سَمِعْنَا ٱلْهُدَىٰٓ ءَامَنَّا بِهِۦ ۖ فَمَن يُؤْمِنۢ بِرَبِّهِۦ فَلَا يَخَافُ بَخْسًۭا وَلَا رَهَقًۭا
-al-Jinn:13
-Dan sesungguhnya kami tatkala mendengar petunjuk (Al Quran), kami beriman kepadanya. Barangsiapa beriman kepada Tuhannya, maka ia tidak takut akan pengurangan pahala dan tidak (takut pula) akan penambahan dosa dan kesalahan.
-https://raw.githubusercontent.com/argaghulamahmad/quranjson/master/source/audio/072/013.mp3
+وَيَوْمَ تَقُومُ ٱلسَّاعَةُ يُبْلِسُ ٱلْمُجْرِمُونَ
+ar-Rum:12
+Dan pada hari terjadinya kiamat, orang-orang yang berdosa terdiam berputus asa.
+https://raw.githubusercontent.com/argaghulamahmad/quranjson/master/source/audio/030/012.mp3
