@@ -1,4 +1,4 @@
-أَوَلَمْ يَرَوْا۟ أَنَّ ٱللَّهَ يَبْسُطُ ٱلرِّزْقَ لِمَن يَشَآءُ وَيَقْدِرُ ۚ إِنَّ فِى ذَٰلِكَ لَءَايَٰتٍۢ لِّقَوْمٍۢ يُؤْمِنُونَ
-ar-Rum:37
-Dan apakah mereka tidak memperhatikan bahwa Sesungguhnya Allah melapangkan rezeki bagi siapa yang dikehendaki-Nya dan Dia (pula) yang menyempitkan (rezeki itu). Sesungguhnya pada yang demikian itu benar-benar terdapat tanda-tanda (kekuasaan Allah) bagi kaum yang beriman.
-https://raw.githubusercontent.com/argaghulamahmad/quranjson/master/source/audio/030/037.mp3
+ذَٰلِكَ بِأَنَّهُمْ ءَامَنُوا۟ ثُمَّ كَفَرُوا۟ فَطُبِعَ عَلَىٰ قُلُوبِهِمْ فَهُمْ لَا يَفْقَهُونَ
+al-Munafiqqun:3
+Yang demikian itu adalah karena bahwa sesungguhnya mereka telah beriman, kemudian menjadi kafir (lagi) lalu hati mereka dikunci mati; karena itu mereka tidak dapat mengerti.
+https://raw.githubusercontent.com/argaghulamahmad/quranjson/master/source/audio/063/003.mp3
