@@ -1,4 +1,4 @@
-لَقَدْ خَلَقْنَا ٱلْإِنسَٰنَ فِىٓ أَحْسَنِ تَقْوِيمٍۢ
-at-Tin:4
-sesungguhnya Kami telah menciptakan manusia dalam bentuk yang sebaik-baiknya.
-https://raw.githubusercontent.com/argaghulamahmad/quranjson/master/source/audio/095/004.mp3
+وَسَخَّرَ لَكُمُ ٱلشَّمْسَ وَٱلْقَمَرَ دَآئِبَيْنِ ۖ وَسَخَّرَ لَكُمُ ٱلَّيْلَ وَٱلنَّهَارَ
+Ibrahim:33
+Dan Dia telah menundukkan (pula) bagimu matahari dan bulan yang terus menerus beredar (dalam orbitnya); dan telah menundukkan bagimu malam dan siang.
+https://raw.githubusercontent.com/argaghulamahmad/quranjson/master/source/audio/014/033.mp3
