@@ -1,4 +1,4 @@
-كَذَٰلِكَ أَرْسَلْنَٰكَ فِىٓ أُمَّةٍۢ قَدْ خَلَتْ مِن قَبْلِهَآ أُمَمٌۭ لِّتَتْلُوَا۟ عَلَيْهِمُ ٱلَّذِىٓ أَوْحَيْنَآ إِلَيْكَ وَهُمْ يَكْفُرُونَ بِٱلرَّحْمَٰنِ ۚ قُلْ هُوَ رَبِّى لَآ إِلَٰهَ إِلَّا هُوَ عَلَيْهِ تَوَكَّلْتُ وَإِلَيْهِ مَتَابِ
-ar-Ra'd:30
-Demikianlah, Kami telah mengutus kamu pada suatu umat yang sungguh telah berlalu beberapa umat sebelumnya, supaya kamu membacakan kepada mereka (Al Quran) yang Kami wahyukan kepadamu, padahal mereka kafir kepada Tuhan Yang Maha Pemurah. Katakanlah: "Dialah Tuhanku tidak ada Tuhan selain Dia; hanya kepada-Nya aku bertawakkal dan hanya kepada-Nya aku bertaubat".
-https://raw.githubusercontent.com/argaghulamahmad/quranjson/master/source/audio/013/030.mp3
+وَمِنْ ءَايَٰتِهِۦٓ أَنْ خَلَقَكُم مِّن تُرَابٍۢ ثُمَّ إِذَآ أَنتُم بَشَرٌۭ تَنتَشِرُونَ
+ar-Rum:20
+Dan di antara tanda-tanda kekuasaan-Nya ialah Dia menciptakan kamu dari tanah, kemudian tiba-tiba kamu (menjadi) manusia yang berkembang biak.
+https://raw.githubusercontent.com/argaghulamahmad/quranjson/master/source/audio/030/020.mp3
