@@ -1,4 +1,5 @@
-ثُمَّ لَتَرَوُنَّهَا عَيْنَ ٱلْيَقِينِ
-At-Takathur:7
-dan sesungguhnya kamu benar-benar akan melihatnya dengan 'ainul yaqin.
-https://raw.githubusercontent.com/argaghulamahmad/quranjson/master/source/audio/102/007.mp3
+Loading .env environment variables...
+يَغْشَى ٱلنَّاسَ ۖ هَٰذَا عَذَابٌ أَلِيمٌۭ
+ad-Dukhan:11
+yang meliputi manusia. Inilah azab yang pedih.
+https://raw.githubusercontent.com/argaghulamahmad/quranjson/master/source/audio/044/011.mp3
