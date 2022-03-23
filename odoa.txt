@@ -1,5 +1,5 @@
 Loading .env environment variables...
-وَيَوْمَ يُعْرَضُ ٱلَّذِينَ كَفَرُوا۟ عَلَى ٱلنَّارِ أَلَيْسَ هَٰذَا بِٱلْحَقِّ ۖ قَالُوا۟ بَلَىٰ وَرَبِّنَا ۚ قَالَ فَذُوقُوا۟ ٱلْعَذَابَ بِمَا كُنتُمْ تَكْفُرُونَ
-al-Ahqaf:34
-Dan (ingatlah) hari (ketika) orang-orang kafir dihadapkan kepada neraka, (dikatakan kepada mereka): "Bukankah (azab) ini benar?" Mereka menjawab: "Ya benar, demi Tuhan kami". Allah berfirman "Maka rasakanlah azab ini disebabkan kamu selalu ingkar".
-https://raw.githubusercontent.com/argaghulamahmad/quranjson/master/source/audio/046/034.mp3
+فِيهَا كُتُبٌۭ قَيِّمَةٌۭ
+al-Bayyinah:3
+di dalamnya terdapat (isi) Kitab-kitab yang lurus.
+https://raw.githubusercontent.com/argaghulamahmad/quranjson/master/source/audio/098/003.mp3
