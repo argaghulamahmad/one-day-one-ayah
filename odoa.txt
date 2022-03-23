@@ -1,5 +1,5 @@
 Loading .env environment variables...
-يَغْشَى ٱلنَّاسَ ۖ هَٰذَا عَذَابٌ أَلِيمٌۭ
-ad-Dukhan:11
-yang meliputi manusia. Inilah azab yang pedih.
-https://raw.githubusercontent.com/argaghulamahmad/quranjson/master/source/audio/044/011.mp3
+وَيَوْمَ يُعْرَضُ ٱلَّذِينَ كَفَرُوا۟ عَلَى ٱلنَّارِ أَلَيْسَ هَٰذَا بِٱلْحَقِّ ۖ قَالُوا۟ بَلَىٰ وَرَبِّنَا ۚ قَالَ فَذُوقُوا۟ ٱلْعَذَابَ بِمَا كُنتُمْ تَكْفُرُونَ
+al-Ahqaf:34
+Dan (ingatlah) hari (ketika) orang-orang kafir dihadapkan kepada neraka, (dikatakan kepada mereka): "Bukankah (azab) ini benar?" Mereka menjawab: "Ya benar, demi Tuhan kami". Allah berfirman "Maka rasakanlah azab ini disebabkan kamu selalu ingkar".
+https://raw.githubusercontent.com/argaghulamahmad/quranjson/master/source/audio/046/034.mp3
