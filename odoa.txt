@@ -1,5 +1,4 @@
-Loading .env environment variables...
-لِّيَجْزِىَ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ ۚ أُو۟لَٰٓئِكَ لَهُم مَّغْفِرَةٌۭ وَرِزْقٌۭ كَرِيمٌۭ
-Saba':4
-supaya Allah memberi balasan kepada orang-orang yang beriman dan mengerjakan amal yang saleh. Mereka itu adalah orang-orang yang baginya ampunan dan rezeki yang mulia.
-https://raw.githubusercontent.com/argaghulamahmad/quranjson/master/source/audio/034/004.mp3
+أَن كَانَ ذَا مَالٍۢ وَبَنِينَ
+al-Qalam:14
+karena dia mempunyai (banyak) harta dan anak.
+https://raw.githubusercontent.com/argaghulamahmad/quranjson/master/source/audio/068/014.mp3
