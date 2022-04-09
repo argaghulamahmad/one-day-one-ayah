@@ -1,4 +1,4 @@
-وَلَقَدْ مَكَّنَّٰهُمْ فِيمَآ إِن مَّكَّنَّٰكُمْ فِيهِ وَجَعَلْنَا لَهُمْ سَمْعًۭا وَأَبْصَٰرًۭا وَأَفْـِٔدَةًۭ فَمَآ أَغْنَىٰ عَنْهُمْ سَمْعُهُمْ وَلَآ أَبْصَٰرُهُمْ وَلَآ أَفْـِٔدَتُهُم مِّن شَىْءٍ إِذْ كَانُوا۟ يَجْحَدُونَ بِـَٔايَٰتِ ٱللَّهِ وَحَاقَ بِهِم مَّا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ
-al-Ahqaf:26
-Dan sesungguhnya Kami telah meneguhkan kedudukan mereka dalam hal-hal yang Kami belum pernah meneguhkan kedudukanmu dalam hal itu dan Kami telah memberikan kepada mereka pendengaran, penglihatan dan hati; tetapi pendengaran, penglihatan dan hati mereka itu tidak berguna sedikit juapun bagi mereka, karena mereka selalu mengingkari ayat-ayat Allah dan mereka telah diliputi oleh siksa yang dahulu selalu mereka memperolok-olokkannya.
-https://raw.githubusercontent.com/argaghulamahmad/quranjson/master/source/audio/046/026.mp3
+ثُمَّ لَا يَمُوتُ فِيهَا وَلَا يَحْيَىٰ
+al-A'la:13
+Kemudian dia tidak akan mati di dalamnya dan tidak (pula) hidup.
+https://raw.githubusercontent.com/argaghulamahmad/quranjson/master/source/audio/087/013.mp3
